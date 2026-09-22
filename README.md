@@ -10,7 +10,11 @@
 
 ### 🚀 About Me
 
-Full  Stack Web Developer who loves  problem solving
+💻 Full Stack Web Developer  
+* 🎯 Focused on secure web applications, CTF, &amp; problem solving  
+* 🔮 Love building clean and functional user interfaces  
+* 🚀 Passionate about coding and cybersecurity exploration  
+* 👾 Exploring modern web technologies and security tools every day
 
 🔭 &nbsp;I'm currently working on **Building modern full stack web applications and interactive UI dashboards**  
 🌱 &nbsp;I'm currently learning **Advanced web architectures, TypeScript, and strengthening backend security!**  
